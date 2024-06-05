@@ -1,0 +1,20 @@
+
+
+/* this means all elements with class = title  do the work inside the curly braces on them*/
+.title {
+}
+
+/* this means  element  with id = nav do the work inside the curly braces on them */
+#nav {
+}
+
+/* this means to all div elements do the work inside the curly braces on them */
+div {
+}
+
+/* this means to all the h2 elements do the work inside the curly braces on them */
+h2 {
+}
+
+
+
