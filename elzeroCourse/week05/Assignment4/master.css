@@ -1,0 +1,13 @@
+a{
+    padding: 20px;
+    text-decoration: none;
+    background-color: green;
+    border-bottom: 10px  solid blue;
+    text-transform: capitalize;
+    color : white;
+    margin: 50px auto;
+    display: block;
+    text-align: center;
+    width: 50px;
+    /* a is inline element */
+}
